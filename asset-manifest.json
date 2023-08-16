@@ -1,17 +1,16 @@
 {
   "files": {
     "main.css": "/SecretPoc/static/css/main.78537cc4.css",
-    "main.js": "/SecretPoc/static/js/main.2eb437ec.js",
+    "main.js": "/SecretPoc/static/js/main.f1e3123d.js",
     "static/js/787.3ac5feed.chunk.js": "/SecretPoc/static/js/787.3ac5feed.chunk.js",
-    "static/media/pdf.worker.min.js": "/SecretPoc/static/media/pdf.worker.min.2ab9d437bf5ecc360842.js",
     "static/media/logo.svg": "/SecretPoc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/SecretPoc/index.html",
     "main.78537cc4.css.map": "/SecretPoc/static/css/main.78537cc4.css.map",
-    "main.2eb437ec.js.map": "/SecretPoc/static/js/main.2eb437ec.js.map",
+    "main.f1e3123d.js.map": "/SecretPoc/static/js/main.f1e3123d.js.map",
     "787.3ac5feed.chunk.js.map": "/SecretPoc/static/js/787.3ac5feed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.78537cc4.css",
-    "static/js/main.2eb437ec.js"
+    "static/js/main.f1e3123d.js"
   ]
 }
